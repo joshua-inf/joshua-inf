@@ -1,9 +1,7 @@
 <div align="center">
-🚀 Zitfuse Platform
+⚡ Joshua Sibanda
 
-A next-generation educational streaming and analytics ecosystem
-🎓 Empowering universities and students with structured, syllabus-aligned video learning.
-
+Software Developer • Network Engineer • Full-Stack Innovator
 
 
 
@@ -11,51 +9,55 @@ A next-generation educational streaming and analytics ecosystem
 
 
 
-Smart • Scalable • Student-Centered
+
+Designing, engineering, and scaling intelligent systems for the modern web.
 
 </div>
-✨ Core Features
-Feature	Description	Status
-📺 University-Specific Content	Videos mapped directly to each university’s syllabus	✅ Live
-🧠 AI-Powered Recommendations	Suggests content based on student course patterns	🚧 In Progress
-📊 Analytics Dashboard	Real-time usage, growth, and engagement insights	✅ Live
-💳 Integrated Payments	Tumeny & Pesapal integration for seamless subscriptions	✅ Live
-🌙 Light/Dark Mode	Adaptive interface with Tailwind theming	✅ Ready
-📱 Cross-Platform Access	Web + Mobile (Flutter-powered companion app)	🔜 Coming Soon
-🧩 Tech Stack
-Frontend
-Next.js 15 • React 18 • TypeScript • Tailwind CSS • Vite
+🧠 Technical Skills
+Domain	Technologies
+Frontend Development	React • Next.js • Vite • Tailwind CSS • TypeScript
+Backend & APIs	Node.js • Express.js • Supabase • Axios • RESTful Design
+Desktop & Web Frameworks	Blazor (.NET 8) • MudBlazor • C#
+Mobile Development	Flutter • Dart
+Databases	MySQL • PostgreSQL • Supabase Realtime
+Analytics & Dashboards	Chart.js • Recharts • Custom Data Visualizations
+Networking	Cisco Routing & Switching • LAN/WAN Design • Network Security
+Version Control & CI/CD	Git • GitHub Actions • Vercel • Render
+Other Tools	Figma • Postman • Docker (basic) • Linux Administration
+🧩 Core Strengths
 
-Backend & APIs
-Express.js • Supabase • Axios • Node.js • RESTful Endpoints
+🚀 Full-Stack Engineering — Building from UI to database with clean architecture.
 
-Desktop & Web Extensions
-Blazor (.NET 8) • MudBlazor UI • LocalStorage State Management
+🧬 Systems Design — Crafting modular, maintainable, and performance-oriented systems.
 
-Mobile
-Flutter • Dart • Firebase Integration
+📊 Data-Driven Approach — Transforming analytics into actionable insights for businesses.
 
-🧠 Developer Insight
+🖥️ UI/UX Precision — Creating responsive and theme-aware interfaces with Tailwind + React.
 
-Built by Joshua Sibanda — Network Engineer, Software Developer & Founder of Zitfuse.
-Focused on data-driven, scalable, and cleanly architected solutions that integrate analytics, performance, and usability.
+🔗 Integration Focused — Merging APIs, payments, and real-time data flows seamlessly.
 
-🧰 Highlighted Projects
-Project	Description
-🌾 Smart Stock	Inventory tracking app for businesses with live sales analytics
-🧬 AgroTech	Helps farmers identify crop diseases and find solutions
-🏥 Clinic Registration System	University clinic dashboard for managing student data
-🧑‍💻 Zitfuse Dashboard	Admin analytics and subscription management system
-⚙️ Setup
-# Clone the repo
-git clone https://github.com/joshuasibanda/zitfuse.git
+⚙️ Automation & Scalability — Writing code that scales easily across teams and devices.
 
-# Install dependencies
-npm install
+🔒 Security-Minded — Following modern best practices for authentication and data protection.
 
-# Start development server
-npm run dev
+🌙 Tech Philosophy
 
-📈 Vision
+“Technology should not just work — it should empower.
+My goal is to build ecosystems where performance, usability, and intelligence meet.”
 
-To redefine how universities deliver and track learning content — bridging the gap between lectures, analytics, and student success.
+🧰 Currently Exploring
+
+🌐 Advanced Next.js App Router and Edge Functions
+
+🔄 Supabase Functions and real-time synchronization
+
+📲 Cross-platform UI patterns (Blazor + Flutter hybrid design)
+
+🧠 AI-driven analytics for education and business platforms
+
+<div align="center">
+💬 Let’s Build the Future, One System at a Time
+
+Frontend · Backend · Infrastructure · Intelligence
+
+</div>
