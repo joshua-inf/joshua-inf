@@ -1,40 +1,61 @@
-# Hi there, I'm Joshua Sibanda! 👋
+<div align="center">
+🚀 Zitfuse Platform
 
-## 🚀 About Me
+A next-generation educational streaming and analytics ecosystem
+🎓 Empowering universities and students with structured, syllabus-aligned video learning.
 
-I'm a **Full Stack Developer** passionate about building innovative solutions. I have experience in **network design**, **web and mobile development**, and **database management**.
 
-## 🛠️ Tech Stack
 
-- **Programming:** Python, C#, JavaScript, Go, Java, Node.js
-- **Web & Mobile:** Flask, .NET Blazor, HTML/CSS, React
-- **Databases:** MySQL, PostgreSQL
-- **Networking:** Cisco, Firewalls, Network Security
 
-## 🛠️ Languages and Tools
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C++" width="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/230px-Go_Logo_Blue.svg.png" alt="Go" width="130"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django" width="130"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/MongoDB_Fores-Green.svg/250px-MongoDB_Fores-Green.svg.png" alt="MongoDB" width="160" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/100px-MySQL_logo.svg.png" alt="MySQL" width="130"/>
-  <img src="https://www.docker.com/app/uploads/2023/05/symbol_blue-docker-logo.png" alt="Docker" width="70"/>
-</p>
 
-## 📫 Connect with Me
 
-- LinkedIn: [Your Profile](#)
-- Twitter: [@YourHandle](#)
-- Email: [YourEmail@example.com](#)
 
-## 📊 GitHub Stats
+Smart • Scalable • Student-Centered
 
-![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoshuaSibanda&show_icons=true&theme=radical)
+</div>
+✨ Core Features
+Feature	Description	Status
+📺 University-Specific Content	Videos mapped directly to each university’s syllabus	✅ Live
+🧠 AI-Powered Recommendations	Suggests content based on student course patterns	🚧 In Progress
+📊 Analytics Dashboard	Real-time usage, growth, and engagement insights	✅ Live
+💳 Integrated Payments	Tumeny & Pesapal integration for seamless subscriptions	✅ Live
+🌙 Light/Dark Mode	Adaptive interface with Tailwind theming	✅ Ready
+📱 Cross-Platform Access	Web + Mobile (Flutter-powered companion app)	🔜 Coming Soon
+🧩 Tech Stack
+Frontend
+Next.js 15 • React 18 • TypeScript • Tailwind CSS • Vite
 
-Thanks for visiting my profile! 🚀
+Backend & APIs
+Express.js • Supabase • Axios • Node.js • RESTful Endpoints
 
+Desktop & Web Extensions
+Blazor (.NET 8) • MudBlazor UI • LocalStorage State Management
+
+Mobile
+Flutter • Dart • Firebase Integration
+
+🧠 Developer Insight
+
+Built by Joshua Sibanda — Network Engineer, Software Developer & Founder of Zitfuse.
+Focused on data-driven, scalable, and cleanly architected solutions that integrate analytics, performance, and usability.
+
+🧰 Highlighted Projects
+Project	Description
+🌾 Smart Stock	Inventory tracking app for businesses with live sales analytics
+🧬 AgroTech	Helps farmers identify crop diseases and find solutions
+🏥 Clinic Registration System	University clinic dashboard for managing student data
+🧑‍💻 Zitfuse Dashboard	Admin analytics and subscription management system
+⚙️ Setup
+# Clone the repo
+git clone https://github.com/joshuasibanda/zitfuse.git
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+📈 Vision
+
+To redefine how universities deliver and track learning content — bridging the gap between lectures, analytics, and student success.
